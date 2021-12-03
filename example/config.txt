@@ -1,0 +1,2 @@
+Prefix plugins/MergeFiles/example
+Plugin MergeFiles inputfile patterns.txt outputfile merged.txt

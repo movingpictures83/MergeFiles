@@ -1,0 +1,85 @@
+Gammaproteobacteria
+Mollicutes
+Oscillatoriophycideae
+Oligoflexia
+Caldisericia
+Zetaproteobacteria
+Vicinamibacteria
+Firmicutes sensu stricto incertae sedis
+Erysipelotrichia
+Anaerolineae
+Thermotogae
+Acidimicrobiia
+Verrucomicrobia incertae sedis
+Bacteroidetes Order II. Incertae sedis
+Deltaproteobacteria
+unclassified Candidatus Cloacimonates
+Chlamydiia
+Methylacidiphilae
+Nitrospira
+Hydrogenophilalia
+Flavobacteriia
+Fibrobacteria
+Chlorobia
+unclassified Candidatus Omnitrophica
+Ardenticatenia
+Gloeobacteria
+Gemmatimonadetes
+Nitriliruptoria
+Opitutae
+Deferribacteres
+Acidobacteriia
+Planctomycetia
+unclassified Balneolaeota
+Bacilli
+Kiritimatiellae
+Rubrobacteria
+Actinomycetia
+Chloroflexia
+Sphingobacteriia
+Blastocatellia
+Ignavibacteria
+Dictyoglomia
+Alphaproteobacteria
+Holophagae
+Fusobacteriia
+Tepidiformia
+Aquificae
+Caldilineae
+Spirochaetia
+Chloroflexi incertae sedis
+Coriobacteriia
+Betaproteobacteria
+Dehalococcoidia
+Atribacteria
+Chitinophagia
+unclassified Firmicutes sensu stricto
+Thermoleophilia
+Thermodesulfobacteria
+Tenericutes incertae sedis
+Cytophagia
+Epsilonproteobacteria
+Clostridia
+Tissierellia
+Thermodesulfovibrionia
+Saprospiria
+Fimbriimonadia
+Thermomicrobia
+Candidatus Saccharimonia
+Calditrichia
+Endomicrobia
+Chrysiogenetes
+Candidatus Brocadiae
+Ktedonobacteria
+Synergistia
+Bacteroidia
+Acidithiobacillia
+unclassified Cyanobacteria
+Phycisphaerae
+Verrucomicrobiae
+Elusimicrobia
+Coprothermobacteria
+Negativicutes
+Limnochordia
+unclassified Candidatus Bipolaricaulota
+Deinococci

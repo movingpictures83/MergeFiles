@@ -1,0 +1,38 @@
+Candidatus Cloacimonetes
+Armatimonadetes
+Synergistetes
+Planctomycetes
+Candidatus Bipolaricaulota
+Atribacterota
+Chlorobi
+Caldiserica
+Dictyoglomi
+Chrysiogenetes
+Candidatus Omnitrophica
+Balneolaeota
+Acidobacteria
+Gemmatimonadetes
+Candidatus Saccharibacteria
+Aquificae
+Ignavibacteriae
+Firmicutes
+Actinobacteria
+Deferribacteres
+Chlamydiae
+Verrucomicrobia
+Fibrobacteres
+Tenericutes
+Kiritimatiellaeota
+Thermotogae
+Deinococcus-Thermus
+Calditrichaeota
+Bacteroidetes
+Coprothermobacterota
+Fusobacteria
+Chloroflexi
+Thermodesulfobacteria
+Elusimicrobia
+Spirochaetes
+Nitrospirae
+Cyanobacteria
+Proteobacteria
